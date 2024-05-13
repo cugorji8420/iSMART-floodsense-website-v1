@@ -1,0 +1,14 @@
+{
+    "name": "node-ex-website",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "@types/express": "^4.17.21",
+        "cheerio": "^1.0.0-rc.12",
+        "express": "^4.17.1",
+        "mapbox-gl": "^3.0.1"
+    }
+}
